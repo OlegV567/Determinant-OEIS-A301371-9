@@ -1,0 +1,7 @@
+diag_min:       285
+diag_max:       285
+background_min: 217
+background_max: 218
+equal_in_row:   2
+display_val:    9
+cand_max: 1000000000
