@@ -1,4 +1,4 @@
-# Determinant-OEIS-A301371-9
+## Determinant-OEIS-A301371-9
 
 The aim is to find maximum determinant of an 9x9 matrix with 9 copies of the numbers 1..9.
 
