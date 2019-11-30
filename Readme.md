@@ -12,7 +12,7 @@ equal_in_row:   1
 display_val:    9
 cand_max: 1000000000
 ```
-(in 3-10 min.)
+(running time: $\approx$ 3-10 min.)
 
 To find 9x9 matrices with determinant 933251220, one can use file 'settings.txt' with parameters:
 ```text
@@ -24,7 +24,7 @@ equal_in_Row:   2
 display_val:    9
 cand_max:       1000000000
 ```
-(in 8-20 min.)
+(running time: 8-20 min.)
 
 Other range expandings consume much more time (feel free to try another parameters).
 
