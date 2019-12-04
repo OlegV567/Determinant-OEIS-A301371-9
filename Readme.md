@@ -7,6 +7,8 @@ with circulant 9x9 matrices whose rows are permutations of 1,2,..,9, with determ
 
 Main idea of the approach could be find [here](https://math.stackexchange.com/questions/885481/maximum-determinant-of-latin-squares/1966427#1966427). 
 
+More detailed descriprion is in 'PT-2019-11.pdf' file.
+
 The code performs exhaustive search (in specified range) of appropriate matrices.
 
 To find 9x9 matrices with determinant 929587995, one can use file 'settings.txt' with following parameters:
